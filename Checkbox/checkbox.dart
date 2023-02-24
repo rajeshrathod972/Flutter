@@ -18,7 +18,7 @@ class MyState extends State<mywidget> {
     return (MaterialApp(
       home: Scaffold(
           appBar: AppBar(
-            title: Text("Login Page"),
+            title: Text("Check Button"),
             centerTitle: true,
           ),
           body: Column(
