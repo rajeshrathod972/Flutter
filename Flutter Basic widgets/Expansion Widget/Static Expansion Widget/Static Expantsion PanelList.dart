@@ -56,7 +56,7 @@ class MyState extends State<mywidget1> {
     return (MaterialApp(
         home: Scaffold(
             appBar: AppBar(
-              title: Text("Static DataTable Widget"),
+              title: Text("Static Expansion Widget"),
               centerTitle: true,
             ),
             body: Column(
